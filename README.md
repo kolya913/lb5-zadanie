@@ -8,7 +8,7 @@ This module provides functions to calculate the areas of various geometric shape
 To install the package, use npm:
 
 ```bash
-npm install lr5-kolya913
+npm install lb5-zadanie
 ```
 
 ## Functions
