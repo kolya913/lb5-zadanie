@@ -1,6 +1,6 @@
 {
   "name": "lb5-zadanie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lb5 zadanie, simple area calculator",
   "main": "assets/js/index.js",
   "scripts": {
