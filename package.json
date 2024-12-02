@@ -1,0 +1,27 @@
+{
+  "name": "lb5",
+  "version": "1.0.0",
+  "description": "lb5 zadanie, simple area calculator",
+  "main": "assets/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development",
+    "watch": "webpack --watch"
+  },
+  "author": "kolya913",
+  "license": "MIT",
+  
+  "keywords": [
+    "area",
+    "lr5",
+    "calculator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolya913/lb5-zadanie"
+  },
+  "devDependencies": {
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
